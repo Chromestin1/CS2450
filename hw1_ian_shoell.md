@@ -15,8 +15,8 @@
 - **Preferred Meeting Times: Friday 11 AM - 2 PM**: 
 
 ## Interests
-- **Personal Interests**:
-- **Game simulations**
+- **Personal Interests**: Game simulations
+- ****
 - **Software Devleopment**
 - **Project Preferences**:
 - **Java-based projects, and UI design with Swing**
